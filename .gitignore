@@ -1,0 +1,9 @@
+3rd/
+out/
+build/
+fonts/
+node_modules/
+*~
+*.Makefile
+*.mk
+Makefile
